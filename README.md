@@ -68,13 +68,13 @@ The data was then prepared for machine learning by cleaning it.
 
 #### Stroke Distribution
 
-![Stroke Distribution.png](https://github.com/andreacohen7/healthcare/blob/main/Stroke%20Distribution.png)
+![Stroke Distribution.png](https://github.com/andreacohen7/Stroke-Predictions/blob/main/Stroke%20Distribution.png)
 
 The target classes are severely imbalanced (95.13% of the samples did not have a stroke and 4.87% of the samples had a stroke).
 
 #### Graphs to view behavioral characteristics
 
-![Behavioral Characteristics.png](https://github.com/andreacohen7/healthcare/blob/main/Behavioral%20Characteristics.png)
+![Behavioral Characteristics.png](https://github.com/andreacohen7/Stroke-Predictions/blob/main/Behavioral%20Characteristics.png)
 
   - The majority of patients were married.
   - The majority of patients were privately employed.
@@ -85,7 +85,7 @@ The target classes are severely imbalanced (95.13% of the samples did not have a
 
 #### Do behavioral characteristics increase strokes?
 
-![The Effect of Behavioral Characteristics on Strokes.png](https://github.com/andreacohen7/healthcare/blob/main/The%20Effect%20of%20Behavioral%20Characteristics%20on%20Strokes.png)
+![The Effect of Behavioral Characteristics on Strokes.png](https://github.com/andreacohen7/Stroke-Predictions/blob/main/The%20Effect%20of%20Behavioral%20Characteristics%20on%20Strokes.png)
 
 - These barplots show that most behavioral characteristics increase strokes.
   - Mariage (even previous marriages) increases strokes.
@@ -95,9 +95,9 @@ The target classes are severely imbalanced (95.13% of the samples did not have a
 
 #### Do medical characteristics increase strokes?
 
-![The Effect of Hypertension and Heart Disease on Strokes.png](https://github.com/andreacohen7/healthcare/blob/main/The%20Effect%20of%20Hypertension%20and%20Heart%20Disease%20on%20Strokes.png)
+![The Effect of Hypertension and Heart Disease on Strokes.png](https://github.com/andreacohen7/Stroke-Predictions/blob/main/The%20Effect%20of%20Hypertension%20and%20Heart%20Disease%20on%20Strokes.png)
 
-![The Effect of Average Glucose Level and BMI on Strokes.png](https://github.com/andreacohen7/healthcare/blob/main/The%20Effect%20of%20Average%20Glucose%20Level%20and%20BMI%20on%20Strokes.png)
+![The Effect of Average Glucose Level and BMI on Strokes.png](https://github.com/andreacohen7/Stroke-Predictions/blob/main/The%20Effect%20of%20Average%20Glucose%20Level%20and%20BMI%20on%20Strokes.png)
 
 - These plots show that medical characteristics increase strokes.
   - The barplots show that hypertension and heart disease both increase strokes.
